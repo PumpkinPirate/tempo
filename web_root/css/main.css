@@ -1,0 +1,42 @@
+#main
+{
+    position: static;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#reset
+{
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    bottom: 80%;
+    top: 5%;
+    display: block;
+    
+    
+}
+
+#tempo
+{
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    bottom: 55%;
+    top: 25%;
+    display: block;
+    text-align: center;
+    font-size: 300%;
+}
+
+#tap
+{
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    bottom: 5%;
+    top: 50%;
+    display: block;
+}
